@@ -6,9 +6,9 @@ A new Flutter project.
 
 In this project, I created an app for Entertaintment stuff.
 
-<img>"https://photos.app.goo.gl/c2TDF8P7yLMUSPJc8"</img>
-<img>"https://photos.app.goo.gl/KBCDcDrxSjQtDbLv7"</img>
-<img>"https://photos.app.goo.gl/bDs22St2WzGKNivy6"</img>
+<img src="https://photos.app.goo.gl/c2TDF8P7yLMUSPJc8"/>
+<img src="https://photos.app.goo.gl/KBCDcDrxSjQtDbLv7"/>
+<img src="https://photos.app.goo.gl/bDs22St2WzGKNivy6"/>
 
 A few resources to get you started if this is your first Flutter project:
 
